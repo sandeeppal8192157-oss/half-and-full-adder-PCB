@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "new")(type "KiCad")(uri "${KIPRJMOD}/banana_shoket_4mm.pretty/new.kicad_sym")(options "")(descr ""))
+)
